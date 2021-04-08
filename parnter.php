@@ -5,8 +5,8 @@
 						<p>Náš partner</p>
 					</div>
 					<div class="part__text">
-						<p><?php the_field('text3');?></p>
-						<p><?php the_field('text3');?></p>
+						<p><?php the_field('text1');?></p>
+						<p><?php the_field('text2');?></p>
 						<p><?php the_field('text3');?></p>
 					</div>
 					<div class="part__download">

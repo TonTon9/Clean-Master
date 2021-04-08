@@ -10,7 +10,7 @@
 						</div>
 						<div class="footer__item">
 							<div class="footer__item-title">
-								<p>Контакты</p>
+								<p>Kontakty</p>
 							</div>
 							<div class="footer__item__menu">
 								<div class="footer__text footer__item_li">
@@ -33,7 +33,7 @@
 						</div>
 						<div class="footer__item">
 							<div class="footer__item-title">
-								<p>Контакты</p>
+								<p>Kontakty</p>
 							</div>
 							<div class="footer__item__menu">
 								<div class="footer__text footer__item_li2">
@@ -48,9 +48,10 @@
 								<div class="footer__text footer__item_li2">
 									<a href="https://www.facebook.com/masterclean.bratislava/?__tn__=<<*F">Facebook</a>
 								</div>
-								<div class="footer__text footer__item_li2">
-								 	<a href="#top"><p>Až</p></a>
+								<div style="opacity: 0; cursor: default;" class="footer__text footer__item_li2">
+								 	<p>Až</p>
 								</div>
+								
 							</div>
 						</div>
 						<div class="footer__img footer__item">

@@ -18,7 +18,7 @@
 		<div class="call1">
 			<div class="call__pole"></div>
 			<div class="call__box">
-				<a href="tel:<?php the_field('Phone'); ?>">По телефону</a>
+				<a href="tel:<?php the_field('Phone'); ?>">Telefonicky</a>
 			</div>
 		</div>
 		<div class="img">
@@ -43,7 +43,7 @@
 						<div class="header__manu">
 							<ul>
 								<li><a href="http://master-clean.sk">O nás</a></li>
-								<li><a href="http://master-clean.sk/sluzba/">Služba</a></li>
+								<li><a href="http://master-clean.sk/sluzba/">Služby</a></li>
 								<li><a href="http://master-clean.sk/nas-partner/">Náš partner</a></li>
 							</ul>
 						</div>
@@ -72,19 +72,20 @@
 							<?php the_field('slogan1'); ?><br><?php the_field('slogan2'); ?><br><?php the_field('slogan3'); ?>
 						</div>
 						<div class="header__button__pole">
-							<div class="header__button header__button_1"><p>Zavolajte nám </p> </div>
+							<div class="header__button header__button_1"><p>Zavolajte nam
+</p> </div>
 							<a href="http://master-clean.sk/uvodna-stranka/"><div class="header__button header__button_2"><p>O NÁS</p></div></a>
 						</div>
 					</div>
 					<div class="header__kart">
 						<div class="header__kart_ob header__kart_1">
 							<img src="<?php echo get_template_directory_uri (); ?>/image/cart1.png" alt="">	
-							<a href="http://master-clean.sk/sluzba/#cost__hand"><div class="header__kart-title">Мойка<img class="arrow" src="<?php echo get_template_directory_uri (); ?>/image/Arrow).png" alt=""></div></a> 
+							<a href="http://master-clean.sk/sluzba/#cost__hand"><div class="header__kart-title">Ručne umytie <img class="arrow" src="<?php echo get_template_directory_uri (); ?>/image/Arrow).png" alt=""></div></a> 
 							
 						</div>
 						<div class="header__kart_ob header__kart_2">
 							<img src="<?php echo get_template_directory_uri (); ?>/image/cart2.png" alt="">	
-							<a href="http://master-clean.sk/sluzba/#cost__him"><div class="header__kart-title">Химчистка<img class="arrow" src="<?php echo get_template_directory_uri (); ?>/image/Arrow).png" alt=""></div></a> 
+							<a href="http://master-clean.sk/sluzba/#cost__him"><div class="header__kart-title">Tepovanie<img class="arrow" src="<?php echo get_template_directory_uri (); ?>/image/Arrow).png" alt=""></div></a> 
 							
 						</div>	
 					</div>
@@ -92,7 +93,7 @@
 				<div class="header__down">
 					<a href="#bottom">
 						<div class="header__down_item">
-							<p>Doplňujúce informácie</p>
+							<p>Doplňujúca informácia</p>
 							<img class="down" src="<?php echo get_template_directory_uri (); ?>/image/Arrow 3.png" alt="">
 						</div>
 					</a>

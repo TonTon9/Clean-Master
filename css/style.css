@@ -473,7 +473,7 @@ html {
   font-family: Montserrat;
   font-style: normal;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 22px;
   line-height: 30px;
   color: #FFFFFF;
 }
@@ -1405,12 +1405,13 @@ form .form_submit:hover {
 }
 
 .cost__title {
+	
   font-family: Montserrat;
   font-style: normal;
   font-weight: 500;
-  font-size: 36px;
+  font-size: 36px !important;
   line-height: 44px;
-  color: #FFFFFF;
+  color:#3A9A47 !important;
   position: relative;
 }
 
